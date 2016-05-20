@@ -1,0 +1,6 @@
+Curator是Netflix公司开源的一个Zookeeper client library，用于简化zookeeper客户端编程。
+
+1、版本适用范围
+Curator 2.x.x - 支持 ZooKeeper 3.4.x and ZooKeeper 3.5.x
+Curator 3.x.x - 支持 ZooKeeper 3.5.x 
+
